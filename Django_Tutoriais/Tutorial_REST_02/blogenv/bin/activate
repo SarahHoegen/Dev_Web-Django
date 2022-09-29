@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/aluno/Documentos/django/Dev_Web-Django/Django_Tutoriais/Tutorial_REST_02/blogenv"
+VIRTUAL_ENV="/home/aluno/Documentos/Django/Dev_Web-Django/Django_Tutoriais/Tutorial_REST_02/blogenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
